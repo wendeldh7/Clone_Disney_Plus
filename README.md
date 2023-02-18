@@ -1,2 +1,2 @@
 # Clone Disney Plus 💙
- ## Desenvolvido por Wendel Gomes
+Desenvolvido por Wendel Gomes
